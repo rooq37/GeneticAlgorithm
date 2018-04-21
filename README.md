@@ -8,4 +8,4 @@ Trees are mutated and crossed in each iteration. The longer the program works, t
 
 <h3>Screenshots:</h3>
 
-<img src="scr1.png" width="25%">
+<img src="scr1.png" width="75%">
